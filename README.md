@@ -8,5 +8,6 @@ Key Features:
 
 - Responsive design for all screen sizes
 
-- Error handling for invalid locations ![image](https://github.com/user-attachments/assets/6cf81b90-44b7-462e-a98d-c594a95d3be8)
+- Error handling for invalid locations
+![image](https://github.com/user-attachments/assets/6cf81b90-44b7-462e-a98d-c594a95d3be8)
 
